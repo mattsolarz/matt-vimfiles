@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='E:/Xampp/htdocs/a.com/caramedia/assets/js'
+let g:netrw_dirhist_2='E:/mean/test/app/controllers'
+let g:netrw_dirhist_3='E:\Xampp\htdocs\a.com'
+let g:netrw_dirhist_4='E:/Xampp/htdocs/a.com'
+let g:netrw_dirhist_5='E:/Xampp/htdocs/a.com/ga/assets'
+let g:netrw_dirhist_6='E:/Xampp/htdocs/a.com/ga/assets/inc'
